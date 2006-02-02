@@ -1,4 +1,4 @@
-## $Id: Makefile.am,v 1.17 2006-02-02 13:14:58 adam Exp $
+## $Id: Makefile.am,v 1.16.2.1 2006-02-02 13:24:06 adam Exp $
 ## Copyright (C) 2001, Index Data
 
 AM_CPPFLAGS = -I$(top_srcdir)/include
